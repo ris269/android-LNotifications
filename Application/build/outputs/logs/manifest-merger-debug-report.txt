@@ -1,0 +1,93 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/lavalamp/AndroidProjects/Demos/android-LNotifications/Application/src/main/AndroidManifest.xml:17:1-39:12
+	package
+		ADDED from /home/lavalamp/AndroidProjects/Demos/android-LNotifications/Application/src/main/AndroidManifest.xml:18:5-49
+	android:versionName
+		ADDED from /home/lavalamp/AndroidProjects/Demos/android-LNotifications/Application/src/main/AndroidManifest.xml:20:5-30
+		INJECTED from /home/lavalamp/AndroidProjects/Demos/android-LNotifications/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/lavalamp/AndroidProjects/Demos/android-LNotifications/Application/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/lavalamp/AndroidProjects/Demos/android-LNotifications/Application/src/main/AndroidManifest.xml:19:5-28
+		INJECTED from /home/lavalamp/AndroidProjects/Demos/android-LNotifications/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/lavalamp/AndroidProjects/Demos/android-LNotifications/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/lavalamp/AndroidProjects/Demos/android-LNotifications/Application/src/main/AndroidManifest.xml:17:11-69
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/lavalamp/AndroidProjects/Demos/android-LNotifications/Application/src/main/AndroidManifest.xml:22:5-72
+	android:name
+		ADDED from /home/lavalamp/AndroidProjects/Demos/android-LNotifications/Application/src/main/AndroidManifest.xml:22:22-69
+application
+ADDED from /home/lavalamp/AndroidProjects/Demos/android-LNotifications/Application/src/main/AndroidManifest.xml:24:5-37:19
+MERGED from [com.android.support:support-v13:25.3.1] /home/lavalamp/.android/build-cache/40388aabeaaa21ae20da0f8757bd6a978ea9399c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/lavalamp/.android/build-cache/2d12851c66cebca096ae136c6344ddcf545411e5/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/lavalamp/.android/build-cache/8cb9d565ed86398702175c51eecc6ef5769c6a91/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/lavalamp/.android/build-cache/0f7195e091e3f442cba32aa518920992b0d89cb7/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/lavalamp/.android/build-cache/1007d8fed38d49f210e6cc09cc65fb32661ddb3d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/lavalamp/.android/build-cache/127f66f4e8ed0b4549ab6556d6e15b9b6704ee66/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/lavalamp/.android/build-cache/cd07c4f0c09f73100deba1d1f228bd22ced879ff/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/lavalamp/.android/build-cache/4f12045c274a8fd8c6ef8b0ddcf477baa4ee00e8/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/lavalamp/.android/build-cache/5c5f61d73c87807ee8d904bb2f92e8eb86ed610d/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/lavalamp/.android/build-cache/3539c669d0a77dd2035e177a19e811118ae7a362/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/lavalamp/.android/build-cache/dacef341d7bbf8945dc068704992562db8adb54e/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/lavalamp/AndroidProjects/Demos/android-LNotifications/Application/src/main/AndroidManifest.xml:27:9-41
+	android:allowBackup
+		ADDED from /home/lavalamp/AndroidProjects/Demos/android-LNotifications/Application/src/main/AndroidManifest.xml:25:9-35
+	android:icon
+		ADDED from /home/lavalamp/AndroidProjects/Demos/android-LNotifications/Application/src/main/AndroidManifest.xml:26:9-45
+	android:theme
+		ADDED from /home/lavalamp/AndroidProjects/Demos/android-LNotifications/Application/src/main/AndroidManifest.xml:28:9-40
+activity#com.example.android.lnotifications.LNotificationActivity
+ADDED from /home/lavalamp/AndroidProjects/Demos/android-LNotifications/Application/src/main/AndroidManifest.xml:29:9-36:20
+	android:label
+		ADDED from /home/lavalamp/AndroidProjects/Demos/android-LNotifications/Application/src/main/AndroidManifest.xml:31:13-45
+	android:name
+		ADDED from /home/lavalamp/AndroidProjects/Demos/android-LNotifications/Application/src/main/AndroidManifest.xml:30:13-50
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/lavalamp/AndroidProjects/Demos/android-LNotifications/Application/src/main/AndroidManifest.xml:32:13-35:29
+action#android.intent.action.MAIN
+ADDED from /home/lavalamp/AndroidProjects/Demos/android-LNotifications/Application/src/main/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from /home/lavalamp/AndroidProjects/Demos/android-LNotifications/Application/src/main/AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/lavalamp/AndroidProjects/Demos/android-LNotifications/Application/src/main/AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from /home/lavalamp/AndroidProjects/Demos/android-LNotifications/Application/src/main/AndroidManifest.xml:34:27-74
+uses-sdk
+INJECTED from /home/lavalamp/AndroidProjects/Demos/android-LNotifications/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v13:25.3.1] /home/lavalamp/.android/build-cache/40388aabeaaa21ae20da0f8757bd6a978ea9399c/output/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/lavalamp/.android/build-cache/2d12851c66cebca096ae136c6344ddcf545411e5/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/lavalamp/.android/build-cache/8cb9d565ed86398702175c51eecc6ef5769c6a91/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /home/lavalamp/.android/build-cache/0f7195e091e3f442cba32aa518920992b0d89cb7/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/lavalamp/.android/build-cache/1007d8fed38d49f210e6cc09cc65fb32661ddb3d/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/lavalamp/.android/build-cache/127f66f4e8ed0b4549ab6556d6e15b9b6704ee66/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/lavalamp/.android/build-cache/cd07c4f0c09f73100deba1d1f228bd22ced879ff/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/lavalamp/.android/build-cache/4f12045c274a8fd8c6ef8b0ddcf477baa4ee00e8/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/lavalamp/.android/build-cache/5c5f61d73c87807ee8d904bb2f92e8eb86ed610d/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/lavalamp/.android/build-cache/3539c669d0a77dd2035e177a19e811118ae7a362/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /home/lavalamp/.android/build-cache/dacef341d7bbf8945dc068704992562db8adb54e/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:25.3.1] /home/lavalamp/.android/build-cache/40388aabeaaa21ae20da0f8757bd6a978ea9399c/output/AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from /home/lavalamp/AndroidProjects/Demos/android-LNotifications/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/lavalamp/AndroidProjects/Demos/android-LNotifications/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/lavalamp/AndroidProjects/Demos/android-LNotifications/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/lavalamp/AndroidProjects/Demos/android-LNotifications/Application/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v13:25.3.1] /home/lavalamp/.android/build-cache/40388aabeaaa21ae20da0f8757bd6a978ea9399c/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/lavalamp/.android/build-cache/2d12851c66cebca096ae136c6344ddcf545411e5/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/lavalamp/.android/build-cache/8cb9d565ed86398702175c51eecc6ef5769c6a91/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/lavalamp/.android/build-cache/0f7195e091e3f442cba32aa518920992b0d89cb7/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/lavalamp/.android/build-cache/1007d8fed38d49f210e6cc09cc65fb32661ddb3d/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/lavalamp/.android/build-cache/127f66f4e8ed0b4549ab6556d6e15b9b6704ee66/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/lavalamp/.android/build-cache/cd07c4f0c09f73100deba1d1f228bd22ced879ff/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/lavalamp/.android/build-cache/4f12045c274a8fd8c6ef8b0ddcf477baa4ee00e8/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/lavalamp/.android/build-cache/5c5f61d73c87807ee8d904bb2f92e8eb86ed610d/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/lavalamp/.android/build-cache/3539c669d0a77dd2035e177a19e811118ae7a362/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/lavalamp/.android/build-cache/dacef341d7bbf8945dc068704992562db8adb54e/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v13:25.3.1] /home/lavalamp/.android/build-cache/40388aabeaaa21ae20da0f8757bd6a978ea9399c/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v13:25.3.1] /home/lavalamp/.android/build-cache/40388aabeaaa21ae20da0f8757bd6a978ea9399c/output/AndroidManifest.xml:26:9-47

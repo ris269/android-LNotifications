@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/lavalamp/AndroidProjects/Demos/android-LNotifications/Application/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/lavalamp/.android/build-cache/8cb9d565ed86398702175c51eecc6ef5769c6a91/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/lavalamp/AndroidProjects/Demos/android-LNotifications/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/lavalamp/.android/build-cache/8cb9d565ed86398702175c51eecc6ef5769c6a91/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/lavalamp/AndroidProjects/Demos/android-LNotifications/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/lavalamp/.android/build-cache/8cb9d565ed86398702175c51eecc6ef5769c6a91/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/lavalamp/AndroidProjects/Demos/android-LNotifications/Application/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/lavalamp/.android/build-cache/8cb9d565ed86398702175c51eecc6ef5769c6a91/output/res/layout-v21/notification_action.xml"
+    }
+]

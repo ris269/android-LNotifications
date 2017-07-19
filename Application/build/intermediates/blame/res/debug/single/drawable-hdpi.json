@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/lavalamp/AndroidProjects/Demos/android-LNotifications/Application/build/intermediates/res/merged/debug/drawable-hdpi/ic_contact_picture.png",
+        "source": "/home/lavalamp/AndroidProjects/Demos/android-LNotifications/Application/src/main/res/drawable-hdpi/ic_contact_picture.png"
+    },
+    {
+        "merged": "/home/lavalamp/AndroidProjects/Demos/android-LNotifications/Application/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/lavalamp/AndroidProjects/Demos/android-LNotifications/Application/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/lavalamp/AndroidProjects/Demos/android-LNotifications/Application/build/intermediates/res/merged/debug/drawable-hdpi/ic_private.png",
+        "source": "/home/lavalamp/AndroidProjects/Demos/android-LNotifications/Application/src/main/res/drawable-hdpi/ic_private.png"
+    },
+    {
+        "merged": "/home/lavalamp/AndroidProjects/Demos/android-LNotifications/Application/build/intermediates/res/merged/debug/drawable-hdpi/ic_secret.png",
+        "source": "/home/lavalamp/AndroidProjects/Demos/android-LNotifications/Application/src/main/res/drawable-hdpi/ic_secret.png"
+    },
+    {
+        "merged": "/home/lavalamp/AndroidProjects/Demos/android-LNotifications/Application/build/intermediates/res/merged/debug/drawable-hdpi/ic_public.png",
+        "source": "/home/lavalamp/AndroidProjects/Demos/android-LNotifications/Application/src/main/res/drawable-hdpi/ic_public.png"
+    },
+    {
+        "merged": "/home/lavalamp/AndroidProjects/Demos/android-LNotifications/Application/build/intermediates/res/merged/debug/drawable-hdpi/ic_private_notification.png",
+        "source": "/home/lavalamp/AndroidProjects/Demos/android-LNotifications/Application/src/main/res/drawable-hdpi/ic_private_notification.png"
+    },
+    {
+        "merged": "/home/lavalamp/AndroidProjects/Demos/android-LNotifications/Application/build/intermediates/res/merged/debug/drawable-hdpi/ic_public_notification.png",
+        "source": "/home/lavalamp/AndroidProjects/Demos/android-LNotifications/Application/src/main/res/drawable-hdpi/ic_public_notification.png"
+    },
+    {
+        "merged": "/home/lavalamp/AndroidProjects/Demos/android-LNotifications/Application/build/intermediates/res/merged/debug/drawable-hdpi/ic_secret_notification.png",
+        "source": "/home/lavalamp/AndroidProjects/Demos/android-LNotifications/Application/src/main/res/drawable-hdpi/ic_secret_notification.png"
+    },
+    {
+        "merged": "/home/lavalamp/AndroidProjects/Demos/android-LNotifications/Application/build/intermediates/res/merged/debug/drawable-hdpi/tile.9.png",
+        "source": "/home/lavalamp/AndroidProjects/Demos/android-LNotifications/Application/src/main/res/drawable-hdpi/tile.9.png"
+    },
+    {
+        "merged": "/home/lavalamp/AndroidProjects/Demos/android-LNotifications/Application/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher_notification.png",
+        "source": "/home/lavalamp/AndroidProjects/Demos/android-LNotifications/Application/src/main/res/drawable-hdpi/ic_launcher_notification.png"
+    }
+]
